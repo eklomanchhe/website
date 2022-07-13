@@ -1,13 +1,13 @@
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Mashwishi!</h2>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm Anil Shivakoti!</h2>
 <p align="center">
 <table align="center">
    <tr>
       <td>
          <p align="center">    
          <img align="center" src="https://i.imgur.com/3tDhosL.gif" width="50%"/></a><br/>
-         <a target="_blank" href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+         <a target="_blank" href="https://esewa.com/anil"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
-            <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
+            <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="" alt="Discord Banner2"/></a>
 <br/><br/>
 <a target="_blank" href="">
 </a>
@@ -24,20 +24,20 @@
          <br/>
          - 💬 Ask me about <strong>Java, PHP, CSS and C#</strong> -
          <br/>
-         - 📫 How to reach me: <a target="_blank" href="https://twitter.com/Mashwishi">@Mashwishi</a> on Twitter -
+         - 📫 How to reach me: <a target="_blank" href="https://twitter.com/cvakotianil">@cvakotianil</a> on Twitter -
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eklomanchhe&theme=radical&hide_border=true" />
          </p>  
       </td>
       <td>
       <br/><br/>
-      <h2 align="center">📊 Mashwishi's Github Statistics 📊 </h2>   
+      <h2 align="center">📊 My Github Statistics 📊 </h2>   
          <br/><br/><br/>
-         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Mashwishi&theme=radical&hide_border=true" />   
+         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=eklomanchhe&theme=radical&hide_border=true" />   
          <br/><br/><br/>
-         <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/><br/><br/><br/>
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mashwishi&theme=radical&show_icons=true&hide_border=true" />
+         <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=eklomanchhe&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/><br/><br/><br/>
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=eklomanchhe&theme=radical&show_icons=true&hide_border=true" />
          <br/><br/><br/>         
       </td>
    </tr>
