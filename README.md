@@ -4,8 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://i.imgur.com/3tDhosL.gif" width="50%"/></a><br/>
-         <a target="_blank" href="https://esewa.com/anil"> <img align="center" src="https://static.vecteezy.com/system/resources/previews/021/971/541/non_2x/click-cursor-icon-with-click-here-button-free-png.png"></a>
+         <a target="_blank" href="https://esewa.com/anil"> <img align="left" src="https://static.vecteezy.com/system/resources/previews/021/971/541/non_2x/click-cursor-icon-with-click-here-button-free-png.png"></a>
          <br/><br/>
             
 <br/><br/>
